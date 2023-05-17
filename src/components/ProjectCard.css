@@ -1,0 +1,66 @@
+.project-card{
+    width: 100%;
+    display: flex;
+}
+.project-card-left{
+    width: 25%;
+    height: 70vh;
+    /* background-color: #5c0b79; */
+    background-color: #080027;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: space-evenly;
+    box-shadow: 0 0 10px black;
+}
+.project-card-left h3, h2{
+    padding: 20px;
+    color: white;
+}
+.project-card-right{
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.html{
+    width: 70%;
+    height: 5px;
+    background-color: #ffffff;
+    margin-left: 2.5rem;
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+}
+.html-in{
+    width: 80%;
+    height: 5px;
+    background-color: #149c16;
+    
+    
+}
+.css-in{
+    width: 80%;
+    height: 5px;
+    background-color: #149c16;
+    
+    
+}
+
+.js-in{
+    width: 60%;
+    height: 5px;
+    background-color: #149c16;
+    
+    
+}
+.react-in{
+    width: 70%;
+    height: 5px;
+    background-color: #149c16;
+    
+    
+}
+.redux-in{
+    width: 60%;
+    height: 5px;
+    background-color: #149c16;
+    
+    
+}
