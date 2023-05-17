@@ -24,6 +24,7 @@ function App() {
             <Route path='react' element={<React/>}/>
             <Route path='css' element={<Css/>}/>
          </Route>
+         <Route path='*' element={<><About/> <Skill /><Footer/></>}/>
       </Routes>
       
       
